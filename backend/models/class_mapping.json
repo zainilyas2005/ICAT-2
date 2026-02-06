@@ -1,0 +1,87 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "name": "Pepper__bell___Bacterial_spot",
+      "display_name": "Pepper  Bell   Bacterial Spot"
+    },
+    {
+      "id": 1,
+      "name": "Pepper__bell___healthy",
+      "display_name": "Pepper  Bell   Healthy"
+    },
+    {
+      "id": 2,
+      "name": "Potato___Early_blight",
+      "display_name": "Potato   Early Blight"
+    },
+    {
+      "id": 3,
+      "name": "Potato___Late_blight",
+      "display_name": "Potato   Late Blight"
+    },
+    {
+      "id": 4,
+      "name": "Potato___healthy",
+      "display_name": "Potato   Healthy"
+    },
+    {
+      "id": 5,
+      "name": "Tomato_Bacterial_spot",
+      "display_name": "Tomato Bacterial Spot"
+    },
+    {
+      "id": 6,
+      "name": "Tomato_Early_blight",
+      "display_name": "Tomato Early Blight"
+    },
+    {
+      "id": 7,
+      "name": "Tomato_Late_blight",
+      "display_name": "Tomato Late Blight"
+    },
+    {
+      "id": 8,
+      "name": "Tomato_Leaf_Mold",
+      "display_name": "Tomato Leaf Mold"
+    },
+    {
+      "id": 9,
+      "name": "Tomato_Septoria_leaf_spot",
+      "display_name": "Tomato Septoria Leaf Spot"
+    },
+    {
+      "id": 10,
+      "name": "Tomato_Spider_mites_Two_spotted_spider_mite",
+      "display_name": "Tomato Spider Mites Two Spotted Spider Mite"
+    },
+    {
+      "id": 11,
+      "name": "Tomato__Target_Spot",
+      "display_name": "Tomato  Target Spot"
+    },
+    {
+      "id": 12,
+      "name": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+      "display_name": "Tomato  Tomato Yellowleaf  Curl Virus"
+    },
+    {
+      "id": 13,
+      "name": "Tomato__Tomato_mosaic_virus",
+      "display_name": "Tomato  Tomato Mosaic Virus"
+    },
+    {
+      "id": 14,
+      "name": "Tomato_healthy",
+      "display_name": "Tomato Healthy"
+    }
+  ],
+  "num_classes": 15,
+  "model_info": {
+    "input_shape": [
+      224,
+      224,
+      3
+    ]
+  }
+}
